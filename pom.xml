@@ -8,6 +8,10 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <artifactId>demo2</artifactId>  
   <version>1</version> 
   
+    <name>Maven Quick Start Archetype</name>  
+  <url>http://maven.apache.org</url>  
+
+  
 <dependencies>  
   <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin -->
 <dependency>
